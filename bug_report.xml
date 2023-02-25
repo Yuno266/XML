@@ -1,1 +1,11 @@
-
+<bag_report>
+  <ID>1</ID>
+  <Title>new_BR</Title>
+  <Environment>Mac_OS_Catalina</Environment>
+  <Precondition>URL</Precondition>
+  <Severity>critical</Severity>
+  <Priority>medium</Priority>
+  <STR>3</STR>
+  <AR>example</AR>
+  <ER>example</ER>
+</bag_report>
